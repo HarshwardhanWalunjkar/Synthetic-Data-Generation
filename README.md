@@ -2,6 +2,10 @@
 
 <p align=left>
 
+Blainder Conference: https://conference.blender.org/2022/presentations/1390/  
+Blainder Addon Instructions[The script usage installation instructions required to run the project are given in the repo readme]: https://github.com/ln-12/blainder-range-scanner 
+
+
 The Project deals with using the Blainder addon in Script form in blender to Sythetically generate datasets in any desired format. 
 The folder mars_dataset includes an example of the dataset that might be generated on running the bpy script.
 Note: The blainder addon implementation here was done in its most stable version on Blender 3.3 LTS, preferable no problems should arise
