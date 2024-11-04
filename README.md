@@ -1,3 +1,6 @@
+**Synthetic Data Generation using Blainder Addon in Blender**
+
+<p align=left>
 
 The Project deals with using the Blainder addon in Script form in blender to Sythetically generate datasets in any desired format. 
 The folder mars_dataset includes an example of the dataset that might be generated on running the bpy script.
@@ -95,3 +98,6 @@ Here is an example of the generated point cloud withing the training set folder 
 
 
 ![image](https://github.com/user-attachments/assets/437dcf7d-2b3f-4a06-9ded-e005b9eb9498)
+
+
+</p>
